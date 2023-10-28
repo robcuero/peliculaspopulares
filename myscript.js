@@ -63,7 +63,7 @@ $(document).ready(function () {
 						' </div>' +
 						'</th>'
 				);
-				if (c == 4) {
+				if (c == 3) {
 					'<hr>' + $('#mostrar').append('<hr>' + '<div>' + '</div>');
 					c = 0;
 				}
