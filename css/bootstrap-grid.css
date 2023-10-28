@@ -15,7 +15,7 @@ html {
   box-sizing: inherit;
 }
 
-.container {
+/* .container {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
@@ -45,7 +45,7 @@ html {
   .container {
     max-width: 1140px;
   }
-}
+} */
 
 .container-fluid {
   width: 100%;
